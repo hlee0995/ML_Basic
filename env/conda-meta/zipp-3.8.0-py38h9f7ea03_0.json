@@ -1,0 +1,118 @@
+{
+  "build": "py38h9f7ea03_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-32",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\hlee0\\miniconda3\\pkgs\\zipp-3.8.0-py38h9f7ea03_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/zipp.cpython-38.pyc",
+    "Lib/site-packages/zipp-3.8.0.dist-info/INSTALLER",
+    "Lib/site-packages/zipp-3.8.0.dist-info/LICENSE",
+    "Lib/site-packages/zipp-3.8.0.dist-info/METADATA",
+    "Lib/site-packages/zipp-3.8.0.dist-info/RECORD",
+    "Lib/site-packages/zipp-3.8.0.dist-info/REQUESTED",
+    "Lib/site-packages/zipp-3.8.0.dist-info/WHEEL",
+    "Lib/site-packages/zipp-3.8.0.dist-info/direct_url.json",
+    "Lib/site-packages/zipp-3.8.0.dist-info/top_level.txt",
+    "Lib/site-packages/zipp.py",
+    ".nonadmin"
+  ],
+  "fn": "zipp-3.8.0-py38h9f7ea03_0.conda",
+  "legacy_bz2_md5": "536a5bc1ce56e4c9a30db77b6025838a",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\hlee0\\miniconda3\\pkgs\\zipp-3.8.0-py38h9f7ea03_0",
+    "type": 1
+  },
+  "md5": "8ed6902cd3abc8e2165bfaaacaa14f4d",
+  "name": "zipp",
+  "package_tarball_full_path": "C:\\Users\\hlee0\\miniconda3\\pkgs\\zipp-3.8.0-py38h9f7ea03_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/zipp.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e5a190e17e06832634018c0a1e1507e9a2493c64992c6c4221843b307187ddde",
+        "sha256_in_prefix": "e5a190e17e06832634018c0a1e1507e9a2493c64992c6c4221843b307187ddde",
+        "size_in_bytes": 9804
+      },
+      {
+        "_path": "Lib/site-packages/zipp-3.8.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/zipp-3.8.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+        "sha256_in_prefix": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+        "size_in_bytes": 1050
+      },
+      {
+        "_path": "Lib/site-packages/zipp-3.8.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e8a268dbf80a30d60dcf9d8535b213969c1b1f06bfb2dd0a5a934c141f4e41f1",
+        "sha256_in_prefix": "e8a268dbf80a30d60dcf9d8535b213969c1b1f06bfb2dd0a5a934c141f4e41f1",
+        "size_in_bytes": 2719
+      },
+      {
+        "_path": "Lib/site-packages/zipp-3.8.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "121d20f918d73b14c3159d8cef68e4bfdced5e1f48006dd542c5f6dbcd5b72a5",
+        "sha256_in_prefix": "121d20f918d73b14c3159d8cef68e4bfdced5e1f48006dd542c5f6dbcd5b72a5",
+        "size_in_bytes": 737
+      },
+      {
+        "_path": "Lib/site-packages/zipp-3.8.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/zipp-3.8.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/zipp-3.8.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6c7679b15d3944049d467c137502ffbe160ee438b9e2d4a51f1fd98e9b0ad801",
+        "sha256_in_prefix": "6c7679b15d3944049d467c137502ffbe160ee438b9e2d4a51f1fd98e9b0ad801",
+        "size_in_bytes": 64
+      },
+      {
+        "_path": "Lib/site-packages/zipp-3.8.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8806dda121df686a817d56f65ee47d26a4901c2a0eb0eb46eb2f42fcb4a9a85c",
+        "sha256_in_prefix": "8806dda121df686a817d56f65ee47d26a4901c2a0eb0eb46eb2f42fcb4a9a85c",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/zipp.py",
+        "path_type": "hardlink",
+        "sha256": "e61af1dfcffe917d160a97c19392d2c0220c62b69386368d8f91ecae251207ef",
+        "sha256_in_prefix": "e61af1dfcffe917d160a97c19392d2c0220c62b69386368d8f91ecae251207ef",
+        "size_in_bytes": 8029
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "65d3c90c1c896491bd0a5c7fea29d7f536bc236844b5e0654f30ccbdc061834c",
+  "size": 20463,
+  "subdir": "win-32",
+  "timestamp": 1652274145372,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-32/zipp-3.8.0-py38h9f7ea03_0.conda",
+  "version": "3.8.0"
+}

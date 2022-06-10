@@ -1,0 +1,60 @@
+{
+  "build": "h9f7ea03_3556",
+  "build_number": 3556,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-32",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\hlee0\\miniconda3\\pkgs\\intel-openmp-2021.4.0-h9f7ea03_3556",
+  "features": "",
+  "files": [
+    "Library/bin/libiomp5md.dll",
+    "Library/bin/libiomp5md.pdb",
+    "Library/bin/libiompstubs5md.dll",
+    ".nonadmin"
+  ],
+  "fn": "intel-openmp-2021.4.0-h9f7ea03_3556.conda",
+  "legacy_bz2_md5": "d5745bf4fa4d270e962aedefc1b3120c",
+  "license": "LicenseRef-ProprietaryIntel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\Users\\hlee0\\miniconda3\\pkgs\\intel-openmp-2021.4.0-h9f7ea03_3556",
+    "type": 1
+  },
+  "md5": "fae33802fdc4b43bc7e91a9c5d0b2fdb",
+  "name": "intel-openmp",
+  "package_tarball_full_path": "C:\\Users\\hlee0\\miniconda3\\pkgs\\intel-openmp-2021.4.0-h9f7ea03_3556.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libiomp5md.dll",
+        "path_type": "hardlink",
+        "sha256": "1eca77331dc892e6109c37f445b3c675afcf208c890583d8a1ec54ec451a67a5",
+        "sha256_in_prefix": "1eca77331dc892e6109c37f445b3c675afcf208c890583d8a1ec54ec451a67a5",
+        "size_in_bytes": 1815488
+      },
+      {
+        "_path": "Library/bin/libiomp5md.pdb",
+        "path_type": "hardlink",
+        "sha256": "afb39613c2cafac8ce7afcc0a42e78aca4cf7cef10cd6bdb613da9fb8fcb6212",
+        "sha256_in_prefix": "afb39613c2cafac8ce7afcc0a42e78aca4cf7cef10cd6bdb613da9fb8fcb6212",
+        "size_in_bytes": 4222976
+      },
+      {
+        "_path": "Library/bin/libiompstubs5md.dll",
+        "path_type": "hardlink",
+        "sha256": "bf6fb7d18e1c670c2a81d9d0ccdb2ef0595c3f0995f1299eb3c768936981f2d9",
+        "sha256_in_prefix": "bf6fb7d18e1c670c2a81d9d0ccdb2ef0595c3f0995f1299eb3c768936981f2d9",
+        "size_in_bytes": 37312
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d72016de0fde8e2bb5dd9e5432e76d430befa224abd7b8b0c7a81a24edc5805c",
+  "size": 1312817,
+  "subdir": "win-32",
+  "timestamp": 1634546582667,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-32/intel-openmp-2021.4.0-h9f7ea03_3556.conda",
+  "version": "2021.4.0"
+}

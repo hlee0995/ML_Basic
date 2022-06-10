@@ -1,0 +1,129 @@
+{
+  "build": "py38h6986bd8_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-32",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\hlee0\\miniconda3\\pkgs\\sip-4.19.13-py38h6986bd8_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/sipconfig.cpython-38.pyc",
+    "Lib/site-packages/__pycache__/sipdistutils.cpython-38.pyc",
+    "Lib/site-packages/sip-4.19.13.dist-info/INSTALLER",
+    "Lib/site-packages/sip-4.19.13.dist-info/METADATA",
+    "Lib/site-packages/sip-4.19.13.dist-info/RECORD",
+    "Lib/site-packages/sip.pyd",
+    "Lib/site-packages/sip.pyi",
+    "Lib/site-packages/sipconfig.py",
+    "Lib/site-packages/sipdistutils.py",
+    "Library/bin/sip.exe",
+    "include/sip.h",
+    ".nonadmin"
+  ],
+  "fn": "sip-4.19.13-py38h6986bd8_0.conda",
+  "legacy_bz2_md5": "71b8440ad10358de3ac2ff1dc80323cf",
+  "license": "GPL-3.0",
+  "link": {
+    "source": "C:\\Users\\hlee0\\miniconda3\\pkgs\\sip-4.19.13-py38h6986bd8_0",
+    "type": 1
+  },
+  "md5": "7ddefb0aece6bf0981ff9ebed8075c01",
+  "name": "sip",
+  "package_tarball_full_path": "C:\\Users\\hlee0\\miniconda3\\pkgs\\sip-4.19.13-py38h6986bd8_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/sipconfig.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e4196d7a2e2fc5753fef8cf24d9573a03cf0dbd58be83959a0426c66a9362669",
+        "sha256_in_prefix": "e4196d7a2e2fc5753fef8cf24d9573a03cf0dbd58be83959a0426c66a9362669",
+        "size_in_bytes": 60099
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/sipdistutils.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "026969d1551a0fb6fb9f38ecca31e42ce46f4c7309547737ecbd54562c741066",
+        "sha256_in_prefix": "026969d1551a0fb6fb9f38ecca31e42ce46f4c7309547737ecbd54562c741066",
+        "size_in_bytes": 5133
+      },
+      {
+        "_path": "Lib/site-packages/sip-4.19.13.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/sip-4.19.13.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a474aaab352004cf4609d756b2ae907a6ae7db1ce03eccf1813ccac4d7568ddf",
+        "sha256_in_prefix": "a474aaab352004cf4609d756b2ae907a6ae7db1ce03eccf1813ccac4d7568ddf",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "Lib/site-packages/sip-4.19.13.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "3338a28871fed263f40d19b08b02fbd967e57729b3e9c2577ba9ba1ee415a772",
+        "sha256_in_prefix": "3338a28871fed263f40d19b08b02fbd967e57729b3e9c2577ba9ba1ee415a772",
+        "size_in_bytes": 643
+      },
+      {
+        "_path": "Lib/site-packages/sip.pyd",
+        "path_type": "hardlink",
+        "sha256": "3533868e74952a9dbe1b283cd182591a6a59079499f0b573ca7d102d055a9ebe",
+        "sha256_in_prefix": "3533868e74952a9dbe1b283cd182591a6a59079499f0b573ca7d102d055a9ebe",
+        "size_in_bytes": 87040
+      },
+      {
+        "_path": "Lib/site-packages/sip.pyi",
+        "path_type": "hardlink",
+        "sha256": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35",
+        "sha256_in_prefix": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35",
+        "size_in_bytes": 2801
+      },
+      {
+        "_path": "Lib/site-packages/sipconfig.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\\\ci_310_32\\\\sip_1643118670402\\\\_h_env",
+        "sha256": "dc9f4ee06cb130d0a0e59637446b6183cb42e7dd07686d54234bfe13b608ddce",
+        "sha256_in_prefix": "47d428e57efbc58e7acdc9bfd2a14ac87e4af7923a61cba38250f689ae0d3c8c",
+        "size_in_bytes": 100349
+      },
+      {
+        "_path": "Lib/site-packages/sipdistutils.py",
+        "path_type": "hardlink",
+        "sha256": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79",
+        "sha256_in_prefix": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79",
+        "size_in_bytes": 6041
+      },
+      {
+        "_path": "Library/bin/sip.exe",
+        "path_type": "hardlink",
+        "sha256": "31b44acbe1f599a307525c28870867ab372f7190a2fb236e6de096fbff13f544",
+        "sha256_in_prefix": "31b44acbe1f599a307525c28870867ab372f7190a2fb236e6de096fbff13f544",
+        "size_in_bytes": 330752
+      },
+      {
+        "_path": "include/sip.h",
+        "path_type": "hardlink",
+        "sha256": "c3c3b0eaa40add10b29297a755355ff1371f8e47aa65b0a7a92e4acc7af34da5",
+        "sha256_in_prefix": "c3c3b0eaa40add10b29297a755355ff1371f8e47aa65b0a7a92e4acc7af34da5",
+        "size_in_bytes": 67001
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "21820f6c12249c7bd788f944cbe9eb88afb50259eada7226182eceab524d4b05",
+  "size": 242286,
+  "subdir": "win-32",
+  "timestamp": 1643118809464,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-32/sip-4.19.13-py38h6986bd8_0.conda",
+  "version": "4.19.13"
+}
